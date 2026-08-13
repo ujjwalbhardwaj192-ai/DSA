@@ -7,11 +7,13 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -25,4 +27,8 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
