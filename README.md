@@ -31,4 +31,12 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
