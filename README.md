@@ -12,6 +12,7 @@ My Data Structures and Algorithms Journey
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -27,6 +28,7 @@ My Data Structures and Algorithms Journey
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
@@ -54,4 +56,8 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
