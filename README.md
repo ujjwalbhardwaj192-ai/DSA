@@ -24,6 +24,7 @@ My Data Structures and Algorithms Journey
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
@@ -34,6 +35,7 @@ My Data Structures and Algorithms Journey
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
@@ -74,4 +76,8 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
