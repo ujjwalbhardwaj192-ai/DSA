@@ -72,6 +72,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -80,4 +81,16 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
