@@ -28,6 +28,7 @@ My Data Structures and Algorithms Journey
 | [0051-n-queens](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
 ## Backtracking
@@ -57,6 +58,7 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
