@@ -11,37 +11,76 @@
  */
 class Solution {
 public:
+    void sol(TreeNode* root,
+             unordered_map<int, vector<pair<int, int>>>& mpp,
+             queue<pair<TreeNode*, int>>& q) {
 
-    vector<tuple<int,int,int>> v;
+        int row = 0;
 
-    void solve(TreeNode* root, int row, int col){
+        while (!q.empty()) {
 
-        if(root == NULL) return;
+            int qs = q.size();
 
-        v.push_back({col, row, root->val});
+            for (int i = 0; i < qs; i++) {
 
-        solve(root->left, row + 1, col - 1);
-        solve(root->right, row + 1, col + 1);
+                TreeNode* front = q.front().first;
+                int col = q.front().second;
+                q.pop();
+
+                mpp[col].push_back({row, front->val});
+
+                if (front->left) {
+                    q.push({front->left, col - 1});
+                }
+
+                if (front->right) {
+                    q.push({front->right, col + 1});
+                }
+            }
+
+            row++;
+        }
     }
 
     vector<vector<int>> verticalTraversal(TreeNode* root) {
 
-        solve(root, 0, 0);
+        if (root == nullptr)
+            return {};
 
-        sort(v.begin(), v.end());
+        unordered_map<int, vector<pair<int, int>>> mpp;
+        queue<pair<TreeNode*, int>> q;
+
+        q.push({root, 0});
+
+        sol(root, mpp, q);
+
+        // Get all columns
+        vector<int> columns;
+
+        for (auto& it : mpp) {
+            columns.push_back(it.first);
+        }
+
+        // Sort columns from left to right
+        sort(columns.begin(), columns.end());
 
         vector<vector<int>> ans;
 
-        int col = INT_MIN;
+        // Process each column
+        for (int col : columns) {
 
-        for(auto x : v){
+            auto& nodes = mpp[col];
 
-            if(get<0>(x) != col){
-                ans.push_back({});
-                col = get<0>(x);
+            // Sort by row, then value
+            sort(nodes.begin(), nodes.end());
+
+            vector<int> currentColumn;
+
+            for (auto& p : nodes) {
+                currentColumn.push_back(p.second);
             }
 
-            ans.back().push_back(get<2>(x));
+            ans.push_back(currentColumn);
         }
 
         return ans;
