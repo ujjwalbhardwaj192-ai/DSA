@@ -16,6 +16,7 @@ My Data Structures and Algorithms Journey
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Array
@@ -43,6 +44,7 @@ My Data Structures and Algorithms Journey
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +89,7 @@ My Data Structures and Algorithms Journey
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
@@ -117,6 +120,7 @@ My Data Structures and Algorithms Journey
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -133,6 +137,7 @@ My Data Structures and Algorithms Journey
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
