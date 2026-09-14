@@ -18,6 +18,7 @@ My Data Structures and Algorithms Journey
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ My Data Structures and Algorithms Journey
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Dynamic Programming
@@ -110,6 +112,7 @@ My Data Structures and Algorithms Journey
 | [0094-binary-tree-inorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Tree
 |  |
@@ -180,5 +183,6 @@ My Data Structures and Algorithms Journey
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
