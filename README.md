@@ -32,6 +32,7 @@ My Data Structures and Algorithms Journey
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ My Data Structures and Algorithms Journey
 | [0094-binary-tree-inorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -174,4 +177,8 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->
