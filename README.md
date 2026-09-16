@@ -79,6 +79,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -97,6 +98,7 @@ My Data Structures and Algorithms Journey
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
@@ -132,6 +134,7 @@ My Data Structures and Algorithms Journey
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -151,6 +154,7 @@ My Data Structures and Algorithms Journey
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -162,6 +166,7 @@ My Data Structures and Algorithms Journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
