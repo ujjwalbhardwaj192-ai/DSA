@@ -64,6 +64,7 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0278-first-bad-version) |
 ## Interactive
@@ -190,4 +191,12 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
