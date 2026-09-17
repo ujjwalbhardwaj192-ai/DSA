@@ -7,6 +7,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
+| [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -34,6 +35,7 @@ My Data Structures and Algorithms Journey
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
+| [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Backtracking
 |  |
@@ -51,6 +53,7 @@ My Data Structures and Algorithms Journey
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -117,6 +120,7 @@ My Data Structures and Algorithms Journey
 | [0094-binary-tree-inorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Tree
@@ -191,6 +195,7 @@ My Data Structures and Algorithms Journey
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Math
