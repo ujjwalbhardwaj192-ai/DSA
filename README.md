@@ -71,6 +71,7 @@ My Data Structures and Algorithms Journey
 | [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -81,6 +82,7 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0078-subsets](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +139,7 @@ My Data Structures and Algorithms Journey
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -157,6 +160,7 @@ My Data Structures and Algorithms Journey
 | [0144-binary-tree-preorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0543-diameter-of-binary-tree) |
