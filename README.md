@@ -13,6 +13,7 @@ My Data Structures and Algorithms Journey
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0125-valid-palindrome) |
@@ -86,6 +87,7 @@ My Data Structures and Algorithms Journey
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -205,6 +207,7 @@ My Data Structures and Algorithms Journey
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
