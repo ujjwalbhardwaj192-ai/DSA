@@ -40,6 +40,7 @@ My Data Structures and Algorithms Journey
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
 | [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
+| [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Backtracking
 |  |
@@ -60,6 +61,7 @@ My Data Structures and Algorithms Journey
 | [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Dynamic Programming
 |  |
@@ -216,6 +218,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -260,4 +263,8 @@ My Data Structures and Algorithms Journey
 | [0450-delete-node-in-a-bst](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
