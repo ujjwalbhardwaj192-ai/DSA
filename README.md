@@ -26,6 +26,7 @@ My Data Structures and Algorithms Journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0039-combination-sum) |
@@ -92,6 +93,7 @@ My Data Structures and Algorithms Journey
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
