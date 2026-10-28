@@ -67,6 +67,7 @@ My Data Structures and Algorithms Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
@@ -241,6 +242,7 @@ My Data Structures and Algorithms Journey
 | [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -269,4 +271,8 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
