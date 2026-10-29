@@ -68,6 +68,7 @@ My Data Structures and Algorithms Journey
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
@@ -242,6 +243,7 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
@@ -277,4 +279,8 @@ My Data Structures and Algorithms Journey
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
