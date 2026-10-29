@@ -43,6 +43,7 @@ My Data Structures and Algorithms Journey
 | [0198-house-robber](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
 | [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
+| [0931-minimum-falling-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Backtracking
@@ -76,6 +77,7 @@ My Data Structures and Algorithms Journey
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ My Data Structures and Algorithms Journey
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
