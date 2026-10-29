@@ -39,6 +39,7 @@ My Data Structures and Algorithms Journey
 | [0090-subsets-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0216-combination-sum-iii) |
 | [0321-create-maximum-number](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0321-create-maximum-number) |
 | [1383-maximum-performance-of-a-team](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/1383-maximum-performance-of-a-team) |
@@ -70,6 +71,7 @@ My Data Structures and Algorithms Journey
 | [0070-climbing-stairs](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/ujjwalbhardwaj192-ai/DSA/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
